@@ -1,0 +1,5 @@
+---
+applications:
+  - name: credhubcfgdemo
+    random-route: true
+    path: target/credhubcfgdemo-0.0.1-SNAPSHOT.jar
